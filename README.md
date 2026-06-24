@@ -1,7 +1,9 @@
 # Investigation of Robot Humour Styles on User Acceptance in a Gamified HRI Environment
 
 **Author:** Noramira Husna Norkhairani
+
 **Supervisors:** Dr. Aimi Shazwani Ghazali and Dr. Afif Husman
+
 **Institution:** Department of Mechatronics Engineering, International Islamic University Malaysia
 
 ## 📌 Project Overview
